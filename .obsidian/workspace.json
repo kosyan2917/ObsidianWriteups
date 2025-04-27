@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Техники и уязвимости/Приемы на заметку/ответ на последовательные запросы.md",
+                "file": "Техники и уязвимости/Особенности работы некоторых инструментов/urllib.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ответ на последовательные запросы"
+              "title": "urllib"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Техники и уязвимости/Приемы на заметку/ответ на последовательные запросы.md",
+                "file": "Техники и уязвимости/Особенности работы некоторых инструментов/urllib.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ответ на последовательные запросы"
+              "title": "Backlinks for urllib"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Техники и уязвимости/Приемы на заметку/ответ на последовательные запросы.md",
+                "file": "Техники и уязвимости/Особенности работы некоторых инструментов/urllib.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ответ на последовательные запросы"
+              "title": "Outgoing links from urllib"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Техники и уязвимости/Приемы на заметку/ответ на последовательные запросы.md",
+                "file": "Техники и уязвимости/Особенности работы некоторых инструментов/urllib.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ответ на последовательные запросы"
+              "title": "Outline of urllib"
             }
           }
         ]
@@ -186,11 +186,13 @@
   "active": "075d6613efd63a5f",
   "lastOpenFiles": [
     "SHAD2025/Vid2Gif.md",
+    "Техники и уязвимости/Особенности работы некоторых инструментов/urllib.md",
+    "Техники и уязвимости/Особенности работы некоторых инструментов",
+    "Техники и уязвимости/CRLF.md",
+    "Техники и уязвимости/SSRF.md",
     "Техники и уязвимости/Приемы на заметку/ответ на последовательные запросы.md",
     "Техники и уязвимости/Приемы на заметку",
     "Техники и уязвимости/Untitled.md",
-    "Техники и уязвимости/CRLF.md",
-    "Техники и уязвимости/SSRF.md",
     "SHAD2025/HTML2PDF.md",
     "SHAD2025/Untitled",
     "SHAD2025/CalcAI (medium).md",
