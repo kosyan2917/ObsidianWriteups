@@ -9,5 +9,4 @@ PORT   STATE SERVICE
 80/tcp open  http
 ```
 
-java.lang.String#90701 : 03d0f18f-16f4-4fb1-a193-3b27c04a6595	24 B (0 %)	n/a
-java.lang.String#64859 : 4312eecb-54e8-46b9-a645-5b9df3ea21d8	24 B (0 %)	n/a
+Крч задачка, по всей видимости, на анализ дампа кучи JVM. Я не смог.

@@ -27,16 +27,128 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Техники и уязвимости/Приемы на заметку/рев шеллы.md",
+                "file": "HackTheBox/Doxpit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "рев шеллы"
+              "title": "Doxpit"
+            }
+          },
+          {
+            "id": "61eee39e37eed4fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Техники и уязвимости/SSTI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SSTI"
+            }
+          },
+          {
+            "id": "3201a2a34ff9847f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/Что это.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Что это"
+            }
+          },
+          {
+            "id": "a8aa83bb8f7ac518",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/Под.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Под"
+            }
+          },
+          {
+            "id": "5c9c0141c6ba5151",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/Нода.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Нода"
+            }
+          },
+          {
+            "id": "786e2e16ab3c70de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/etcd. Raft и проблемы с производительностью.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "etcd. Raft и проблемы с производительностью"
+            }
+          },
+          {
+            "id": "a0f615eb20fb7c7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/Admission Controllers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Admission Controllers"
+            }
+          },
+          {
+            "id": "0a11a9e9b4872653",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Техники и уязвимости/SSTI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SSTI"
+            }
+          },
+          {
+            "id": "5ed9892b3c5d43b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Техники и уязвимости/CVE/CVE-2024-34351.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CVE-2024-34351"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -183,38 +295,45 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "d4ceebb56a312b8c",
+  "active": "a0f615eb20fb7c7b",
   "lastOpenFiles": [
-    "TryHackMe/New York Flankees.md",
+    "Kubernetes/etcd. Raft и проблемы с производительностью.md",
+    "Kubernetes/Admission Controllers.md",
+    "Без названия",
+    "Kubernetes/Нода.md",
+    "Kubernetes/Под.md",
+    "Kubernetes/Сервис.md",
+    "Kubernetes/Kubernetes.md",
+    "Kubernetes/Что это.md",
+    "HackTheBox/Doxpit.md",
+    "Kubernetes",
+    "Техники и уязвимости/Приемы на заметку/0.0.0.0.md",
+    "Portswigger/server-side/Без названия.md",
+    "Техники и уязвимости/CVE/CVE-2024-34351.md",
+    "Portswigger/server-side",
+    "Portswigger",
+    "Техники и уязвимости/Особенности работы некоторых инструментов/jinja2.md",
     "Техники и уязвимости/Приемы на заметку/рев шеллы.md",
-    "HackTheBox/Eureka.md",
+    "Техники и уязвимости/SSTI.md",
+    "Техники и уязвимости/CRLF.md",
+    "Техники и уязвимости/SSRF.md",
+    "Техники и уязвимости/CVE",
+    "TryHackMe/New York Flankees.md",
+    "HackTheBox/PDFy.md",
+    "SHAD2025/Vid2Gif.md",
     "Техники и уязвимости/Приемы на заметку/spring.md",
+    "Техники и уязвимости/Особенности работы некоторых инструментов/php.md",
+    "HackTheBox/Insomnia.md",
+    "HackTheBox/Eureka.md",
     "Техники и уязвимости/Приемы на заметку/java.md",
     "HackTheBox",
     "SHAD2025/CalcAI (medium).md",
     "SHAD2025/HTML2PDF.md",
-    "SHAD2025/Latex (easy).md",
-    "SHAD2025/Vid2Gif.md",
-    "Техники и уязвимости/Приемы на заметку/докер.md",
-    "Техники и уязвимости/padding-oracle attack.md",
-    "Техники и уязвимости/AES.md",
-    "Техники и уязвимости/Приемы на заметку/ответ на последовательные запросы.md",
     "Ресурсы/Pasted image 20250428183002.png",
     "Pasted image 20250428182956.png",
     "Ресурсы",
     "TryHackMe",
-    "Техники и уязвимости/Особенности работы некоторых инструментов/urllib.md",
     "Техники и уязвимости/Особенности работы некоторых инструментов",
-    "Техники и уязвимости/CRLF.md",
-    "Техники и уязвимости/SSRF.md",
-    "Техники и уязвимости/Приемы на заметку",
-    "Техники и уязвимости/Untitled.md",
-    "SHAD2025/Untitled",
-    "Техники и уязвимости",
-    "Техники и уязвимости.md",
-    "Welcome.md",
-    "Untitled 1/Untitled",
-    "SHAD2025",
-    "TryHackMe"
+    "Техники и уязвимости/Приемы на заметку"
   ]
 }
